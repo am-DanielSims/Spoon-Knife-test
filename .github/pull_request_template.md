@@ -2,13 +2,6 @@
 ## Jira Ticket ID
 <!-- e.g. DSPS-123 (this should also be included in the PR title) -->
 
-## Type of Change
-- [ ] Bug
-- [ ] Feature
-- [ ] Enhancement
-- [ ] Refactor
-- [ ] Other (specify):
-
 ## Publications Affected
 <!-- List relevant publications or products -->
 
